@@ -7,8 +7,7 @@
 
 
 [![Blaise Sebagabo's github stats](https://github-readme-stats.vercel.app/api?username=blaiseAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-![metrics](./github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/blaiseAI?template=classic&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=America%2FEdmonton)
 
 - 👋 Hi, I’m Blaise Sebagabo
 - 👀 I’m interested in Software Development and Architecture
